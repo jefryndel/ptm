@@ -1,0 +1,12 @@
+<resources>
+    <string name="bt_sumar">sumar</string>
+    <string name="app_name">sumador</string>
+    <string name="lb_num1">ingrese numero 1</string>
+    <string name="lb_num2">ingrese numero 2</string>
+    <string name="h_num">Ej:234234</string>
+    >!--seccion del menu actividad -->
+    <string name="action_acercade">acerca de</string>
+    <string name="borrar">borrar</string>
+
+
+</resources>
